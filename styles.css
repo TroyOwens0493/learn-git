@@ -1,6 +1,14 @@
+.title {
+    text-align: center;
+}
+
 header footer {
     background-color: rgb(79, 68, 125);
     color: white;
+}
+
+.socials {
+    text-align: right;
 }
 
 body {
